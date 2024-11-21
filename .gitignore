@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+huffmanenc.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -209,7 +210,6 @@ PublishScripts/
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
-
 # Microsoft Azure Emulator
 ecf/
 rcf/
